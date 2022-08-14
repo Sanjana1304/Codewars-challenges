@@ -6,6 +6,7 @@ Your task is to write a function that takes a string and return a new string wit
 
 For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".
 
+LEVEL : 7kyu 
 """
 
 def disemvowel(string_):
