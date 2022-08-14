@@ -1,4 +1,5 @@
-""" Given an integral number, determine if it's a square number """
+""" Given an integral number, determine if it's a square number 
+LEVEL : 7kyu """
 
 import math
 def is_square(n):
